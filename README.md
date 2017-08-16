@@ -1,5 +1,5 @@
-# Druaga1-Soundboard
-A Python3 made Druaga1 Soundboard!
+# Druaga1-Soundboard Bleeding Edge Builds
+__NOTE: This build is a bleeding edge build. Everything is still tested but new features can be edited or removed at any time in this build. This build type is only for people who like living on the edge, people who like testing things, or feel like Driaga1 himself and try to fix things without reaserch. :smiley:__
 
 ## Build Instructions
 Comming soon.
