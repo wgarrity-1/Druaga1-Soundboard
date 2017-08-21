@@ -1,10 +1,11 @@
+from guizero import App, PushButton, MenuBar, info
 import pygame
 import os
 import webbrowser
 def exit():
     os._exit(0)
 def about():
-    info ("About", "Druaga1 Soundboard v0.01a by Will9183.")
+    info ("About", "Druaga1 Soundboard v0.03a by Will9183.")
 def viewcode():
     webbrowser.open('https://github.com/will9183/Druaga1-Soundboard', new=2)
 def ssd1():
