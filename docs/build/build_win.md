@@ -7,7 +7,7 @@ This is how to build Druaga1 Soundboard for Windows
 * Pyinstaller Development Versions
 * NSIS (only if you are planning on building the installer)  <br>
   <br>
-To find instructions on how to install these programs, see /doc/requirements.md for more information.
+To find instructions on how to install these programs, see /doc/requirements-win.md for more information.
 ## Instructions for Regular Build
 1. Fork this repository with either git or download the zip file.
 1. Open Command Prompt or Powershell in the code's folder and type `pyinstaller main.py`
